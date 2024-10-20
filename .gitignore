@@ -1,0 +1,9 @@
+build/
+*.vcxproj*
+CMakeCache*
+*.sln
+CMakeFiles/
+cmake_install.cmake
+*.exe
+/output/
+/build/
